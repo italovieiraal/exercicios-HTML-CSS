@@ -1,0 +1,30 @@
+*{
+    margin:5px;
+    padding:5px ;
+    text-align: center;
+    background:rgb(103, 216, 103);
+
+
+}
+header {
+    background:rgb(56, 56, 236);
+    color: white;
+    font-size: 30px;
+    padding: 10px;
+    
+}
+h2{
+    background: rgb(56, 56, 236);
+    color: white;
+    font-size: 25px;
+}
+p{
+    font-family:'Times New Roman';
+    font-size:20px ;
+    color: white;
+    
+    
+}
+img{
+    height: 250px;
+}
